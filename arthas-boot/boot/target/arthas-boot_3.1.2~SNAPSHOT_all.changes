@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Sat, 6 Jul 2019 00:08:06 +0530
+Source: arthas-boot
+Binary: arthas-boot
+Architecture: all
+Version: 3.1.2~SNAPSHOT
+Distribution: unknown
+Urgency: low
+Maintainer: sahil jha <sjha200000@gmail.com>
+Changed-By: sahil jha <sjha200000@gmail.com>
+Description:
+ arthas-boot - arthas
+Changes:
+ arthas-boot (3.1.2~SNAPSHOT) unknown; urgency=low
+Checksums-Sha1:
+ 692af17a38a2c9a840ff042dd501e4d7d8378e6e 23200 arthas-boot_3.1.2~SNAPSHOT_all.deb
+Checksums-Sha256:
+ 9908fde9324d66526a5aa2fecc45e8530c12c1b50f5c52a16c80095baa8962f0 23200 arthas-boot_3.1.2~SNAPSHOT_all.deb
+Files:
+ 4f490c2dcf52e8f9f47f29bbef8a5e86 23200 misc low arthas-boot_3.1.2~SNAPSHOT_all.deb
