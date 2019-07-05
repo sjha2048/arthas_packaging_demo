@@ -1,0 +1,20 @@
+Format: 1.8
+Date: Fri, 5 Jul 2019 17:03:35 +0530
+Source: arthas-demo
+Binary: arthas-demo
+Architecture: all
+Version: 3.1.2~SNAPSHOT
+Distribution: unknown
+Urgency: low
+Maintainer: sahil jha <sjha200000@gmail.com>
+Changed-By: sahil jha <sjha200000@gmail.com>
+Description:
+ arthas-demo - arthas
+Changes:
+ arthas-demo (3.1.2~SNAPSHOT) unknown; urgency=low
+Checksums-Sha1:
+ 147e48010bd48600f477c58fabe0cbcb7bb6bc17 3876 arthas-demo_3.1.2~SNAPSHOT_all.deb
+Checksums-Sha256:
+ c7ba3aad8ca6a820f5ce66af565322d030a873b6e8ff16c0d405fa3e782ffd53 3876 arthas-demo_3.1.2~SNAPSHOT_all.deb
+Files:
+ cb35dd9a2c41eed2fa02cace6aaa0d47 3876 misc low arthas-demo_3.1.2~SNAPSHOT_all.deb
